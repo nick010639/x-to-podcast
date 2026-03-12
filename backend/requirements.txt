@@ -1,0 +1,18 @@
+# Video & Audio
+yt-dlp>=2024.1
+ffmpeg>=6.0
+
+# Whisper (local STT)
+faster-whisper>=1.0
+
+# TTS
+kokoro>=0.1
+soundfile>=0.12
+
+# HTTP Server
+fastapi>=0.100
+uvicorn>=0.23
+
+# Utilities
+python-dotenv>=1.0
+httpx>=0.24
